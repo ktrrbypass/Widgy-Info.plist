@@ -403,7 +403,7 @@
     <key>LSHasLocalizedDisplayName</key>
     <true/>
     <key>CFBundleDisplayName</key>
-    <string>⠀</string>
+    <string> </string>
     <key>CFBundleDocumentTypes</key>
     <array>
       <dict>
